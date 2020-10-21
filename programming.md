@@ -38,6 +38,11 @@ pseudorandom = random.randint(0, 10)
 print(pseudorandom)
 
 ```
+##### REFERENCES
+- [Python Random Module](https://www.w3schools.com/python/module_random.asp)
+- [Python For Loops](https://www.w3schools.com/python/python_for_loops.asp)
+
+- [Python print() Function](https://www.w3schools.com/python/ref_func_print.asp)
 ---
 Visit https://repl.it/@dlloyd09/CS50LawGuess. After cloning that repl, in main.py, implement a program that picks a pseudorandom number between 1 and 10, inclusive, and asks the user to guess that number, giving them only one guess. Your program should then print some message, informing the user whether or not their guess was correct.
 
@@ -73,6 +78,11 @@ else:
   print(pseudorandom, end="")
   print("'")
 ```
+##### REFERENCES
+- [Python While Loops](https://www.w3schools.com/python/python_while_loops.asp)
+- [Python Try Except](https://www.w3schools.com/python/python_try_except.asp)
+
+- [Python If ... Else](https://www.w3schools.com/python/python_conditions.asp)
 ---
 Visit https://repl.it/@dlloyd09/CS50LawGame. After cloning that repl, in main.py, implement a program that picks a pseudorandom number between 1 and 10, inclusive, and gives the user up to 3 chances to guess that number, each time printing some message, informing the user whether or not their guess was correct. If the user guesses correctly at any point, the program should end.
 
