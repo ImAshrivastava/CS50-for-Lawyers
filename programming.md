@@ -26,6 +26,7 @@ of particular help!
 
 To submit your work, click "Share" at the top, and then under the "Invite" option, select "Copy repl link". Paste that link here. Do NOT select the "Post" option. Do NOT share your "join link", the latter is very likely to break, and therefore be inaccessible to the staff, if you share it with anyone else.
 
+##### CODE
 ```Python
 import random
 
@@ -41,6 +42,8 @@ print(pseudorandom)
 Visit https://repl.it/@dlloyd09/CS50LawGuess. After cloning that repl, in main.py, implement a program that picks a pseudorandom number between 1 and 10, inclusive, and asks the user to guess that number, giving them only one guess. Your program should then print some message, informing the user whether or not their guess was correct.
 
 To submit your work, click "Share" at the top, and then under the "Invite" option, select "Copy repl link". Paste that link here. Do NOT select the "Post" option. Do NOT share your "join link", the latter is very likely to break, and therefore be inaccessible to the staff, if you share it with anyone else.
+
+##### CODE
 ```Python
 import random
 
@@ -75,6 +78,7 @@ Visit https://repl.it/@dlloyd09/CS50LawGame. After cloning that repl, in main.py
 
 To submit your work, click "Share" at the top, and then under the "Invite" option, select "Copy repl link". Paste that link here. Do NOT select the "Post" option. Do NOT share your "join link", the latter is very likely to break, and therefore be inaccessible to the staff, if you share it with anyone else.
 
+##### CODE
 ```Python
 import random
 
